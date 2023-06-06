@@ -1,7 +1,11 @@
 ---
-layout: page
-title: "PAGE-TITLE"
-permalink: /about/contact/
+layout: default
+title: Another page
+description: This is just another page
 ---
-# ajout d'information
-## Test
+
+## Welcome to another page
+
+_yay_
+
+[back](./)
