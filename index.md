@@ -6,7 +6,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](/_site/testpage.html).
-[Another link](./_posts/2023-06-06-TESTPOST.md).
+[Another link](./_posts/2023-06-06-TESTPOST.md)
 
 There should be whitespace between paragraphs.
 
