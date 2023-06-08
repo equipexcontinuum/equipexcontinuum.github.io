@@ -27,7 +27,3 @@ Lorem ipsum dolor si amet:
 
 
 ## Comment venir
-
-## Localisation Plateformes
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_EMMTAn6U0qOsp6aAYbYYqCn3Z-RHXg&ehbc=2E312F" width="500" height="500"></iframe>
