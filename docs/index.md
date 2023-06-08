@@ -27,3 +27,5 @@ Lorem ipsum dolor si amet:
 
 
 ## Comment venir
+
+<img src='grenoble.jpg' width='400'>
