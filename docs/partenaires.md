@@ -7,10 +7,10 @@ nav_order: 3
 ## 3 organismes de recherche
 -------------------------
 
-<img src='logos/cnrs.jpeg' class="icon">
+<img src='logos/cnrs.jpeg' width='100'>
 Centre National de la Recherche Scientifique (porteur)
 
-<img src='logos/cea.jpg' width='100'>  
+<img src='logos/cea.jpeg' width='100'>  
 Commissariat à l'Énergie Atomique et aux Énergies Alternatives
 
 <img src='logos/inria.png' width='200'>  
@@ -21,34 +21,34 @@ Institut national de recherche en sciences et technologies du numérique
 ## 10 universités
 --------------
 
-![](logos/ur1.png)  
+<img src='logos/ur1.png' width='100'>
 Université de Rennes 1
 
-![](logos/ur2.png)  
+<img src='logos/ur2.png' width='100'>
 Université de Rennes 2
 
-![](logos/amu.png)  
+<img src='logos/amu.png' width='100'>
 Aix-Marseille University
 
-![](logos/utc.svg)  
+<img src='logos/utc.svg' width='100'>
 Université de Technologie de Compiègne
 
-![](logos/ulille.png)  
+<img src='logos/ulille.png' width='100'>  
 Université de Lille
 
-![](logos/uga.svg)  
+<img src='logos/uga.svg' width='100'>
 Université Grenoble Alpes
 
-![](logos/unistra.jpg)  
+<img src='logos/unistra.jpg' width='100'>  
 Université de Strasbourg
 
-![](logos/ubfc.png)  
+<img src='logos/ubfc.png' width='100'>
 COMUE UBFC Université de Technologie Belfort Montbéliard
 
-![](logos/upsaclay.png)  
+<img src='logos/upsaclay.png' width='100'>
 Université Paris-Saclay
 
-![](logos/uvsq.jpg)  
+<img src='logos/uvsq.jpg' width='100'>
 Université de Versailles - Saint-Quentin
 
 * * *
@@ -56,31 +56,31 @@ Université de Versailles - Saint-Quentin
 ## 9 écoles
 --------
 
-![](logos/ens-rennes.svg)  
+<img src='logos/ens-rennes.svg' width='100'>
 Ecole Normale Supérieure de Rennes
 
-![](logos/insa-rennes.jpg)  
+<img src='logos/insa-rennes.jpg' width='100'>
 Institut National des Sciences Appliquées de Rennes
 
-![](logos/enib.png)  
+<img src='logos/enib.jpg' width='100'>
 Ecole Nationale d'Ingénieurs de Brest
 
-![](logos/imt-atlantique.png)  
+<img src='logos/imt-atlantique.png' width='100'> 
 Ecole Nationale Supérieure Mines-Télécom Atlantique Bretagne-Pays de la Loire
 
-![](logos/inpg.svg)  
+<img src='logos/inpg.svg' width='100'>
 Institut National Polytechnique de Grenoble
 
-![](logos/ensam.png)  
+<img src='logos/ensam.png' width='100'>
 Ecole Nationale Supérieure des Arts et Métiers
 
-![](logos/telecom.png)  
+<img src='logos/telecom.png' width='100'>
 Télécom Paris - Institut Polytechnique de Paris
 
-![](logos/ens-paris-saclay.png)  
+<img src='logos/ens-paris-saclay.png' width='100'>
 Ecole Normale Supérieure Paris-Saclay
 
-![](logos/cs.png)  
+<img src='logos/cs.png' width='100'>
 CentraleSupélec
 
 * * *
@@ -88,8 +88,8 @@ CentraleSupélec
 ## Financement
 -----------
 
-![](logos/pia.png)  
+<img src='logos/pia.png' width='100'> 
 Programme Investissements d'avenir
 
-![](logos/anr.jpg)  
+<img src='logos/anr.jpg' width='100'>
 Agence Nationale de la Recherche
