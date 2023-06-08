@@ -7,7 +7,7 @@ site_author: Carlos Pereira Atencio
 repo_url: "https://github.com/carlosperate/jekyll-theme-rtd"
 edit_on_github: false
 github_docs_folder: true
-logo: 'https://github.com/equipexcontinuum/equipexcontinuum.github.io/blob/512ab70ca08486eb2bf5675f8e99e5481d75c555/logo-500-white.png'
+logo: '../logo-500-white.png'
 sticky_navigation: true
 prev_next_buttons_location: bottom
 search_enabled: false
