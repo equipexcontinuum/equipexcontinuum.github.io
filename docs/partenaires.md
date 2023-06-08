@@ -4,21 +4,21 @@ title: Partenaires
 nav_order: 3
 ---
 
-3 organismes de recherche
+## 3 organismes de recherche
 -------------------------
 
-![](logos/cnrs.jpg)  
+<img src='logos/cnrs.jpeg' width='100'>
 Centre National de la Recherche Scientifique (porteur)
 
-![](logos/cea.jpg)  
+<img src='logos/cea.jpg' width='100'>  
 Commissariat à l'Énergie Atomique et aux Énergies Alternatives
 
-![](logos/inria.png)  
+<img src='logos/inria.png' width='200'>  
 Institut national de recherche en sciences et technologies du numérique
 
 * * *
 
-10 universités
+## 10 universités
 --------------
 
 ![](logos/ur1.png)  
@@ -53,7 +53,7 @@ Université de Versailles - Saint-Quentin
 
 * * *
 
-9 écoles
+## 9 écoles
 --------
 
 ![](logos/ens-rennes.svg)  
@@ -85,7 +85,7 @@ CentraleSupélec
 
 * * *
 
-Financement
+## Financement
 -----------
 
 ![](logos/pia.png)  
