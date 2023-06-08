@@ -7,7 +7,7 @@ nav_order: 3
 ## 3 organismes de recherche
 -------------------------
 
-<img src='logos/cnrs.jpeg' width='100'>
+<img src='logos/cnrs.jpeg' class="icon">
 Centre National de la Recherche Scientifique (porteur)
 
 <img src='logos/cea.jpg' width='100'>  
