@@ -4,6 +4,8 @@ title: Partenaires
 nav_order: 3
 ---
 
+# Partenaires
+
 ## 3 organismes de recherche
 -------------------------
 
