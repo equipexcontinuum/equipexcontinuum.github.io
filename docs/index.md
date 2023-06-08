@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Index
-nav_exclude: true
+title: Accueil
+nav_exclude: false
 ---
 
-# Read The Docs Theme for Jekyll and GitHub Pages
+# Accueil journées CONTINUUM
 
 This is a port of the
 [Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to
