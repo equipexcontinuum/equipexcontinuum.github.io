@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accueil
+title: Journées CONTINUUM 2023
 nav_exclude: false
 ---
 
