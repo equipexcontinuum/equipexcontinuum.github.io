@@ -19,11 +19,11 @@ Lorem ipsum dolor si amet:
 || Lundi 3 Juillet | Mardi 4 Juillet |
 | ---| --- | --- |
 |9h30-10h| `git status` | List all *new or modified* files |
-|9h30-10h| `git status` | List all *new or modified* files |
-|9h30-10h| `git status` | List all *new or modified* files |
-|9h30-10h| `git status` | List all *new or modified* files |
-|9h30-10h| `git status` | List all *new or modified* files |
-|9h30-10h| `git status` | List all *new or modified* files |
+|10h-10h30| `accueil` | List all *new or modified* files |
+|10h30-12h30| `Présentations générales` | Bilan annuel |
+|12h30-14h| `Repas` | List all *new or modified* files |
+|14h-18h| `git status` | List all *new or modified* files |
+|12h-12h30| `git status` | List all *new or modified* files |
 
 
 ## Comment venir
