@@ -118,7 +118,7 @@ Agence Nationale de la Recherche
 
 ## Plateformes
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_EMMTAn6U0qOsp6aAYbYYqCn3Z-RHXg&ehbc=2E312F" width="800" height="500"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_EMMTAn6U0qOsp6aAYbYYqCn3Z-RHXg&ehbc=2E312F" width="700" height="500"></iframe>
 
 
 ### Immersia
