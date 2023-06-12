@@ -122,31 +122,83 @@ Agence Nationale de la Recherche
 
 
 ### Immersia (IRISA, Rennes)
-<img src='logos/pia.png' width='100'> 
+<img src='plateformes/immersia.jpeg' width='100'> 
 
 ### Immermove (M2S, Rennes) 
-<img src='logos/pia.png' width='100'> 
+<img src='plateformes/immermove.png' width='100'> 
 
 ### CRVM (ISM, Marseille)
-<img src='logos/pia.png' width='100'> 
+<img src='plateformes/crvm.jpeg' width='100'> 
 
 ### Translife (Heudiasyc, Compiègne)
-<img src='logos/pia.png' width='100'> 
+<img src='plateformes/translife.jpeg' width='100'> 
 
-### BlueLemon, SAAM, eLiV (Arts et Métiers, Chalon)
-<img src='logos/pia.png' width='100'>
+### BlueLemon(Arts et Métiers, Chalon)
+<img src='plateformes/bluelemon.jpeg' width='100'>
+
+### SAAM (Arts et Métiers, Chalon)
+<img src='plateformes/saam.jpeg' width='100'>
+
+### eLiV (Arts et Métiers, Chalon)
+<img src='plateformes/eliv.jpeg' width='100'>
 
 ### JARVIS (Arts et Métiers, Aix en provence)
-<img src='logos/pia.png' width='100'> 
+<img src='plateformes/jarvis.jpeg' width='100'> 
 
-### CRVM (ISM, Marseille)
-<img src='logos/pia.png' width='100'> 
+### TORE (IrDIVE, Lille)
+<img src='plateformes/tore.jpeg' width='100'> 
 
-### CRVM (ISM, Marseille)
-<img src='logos/pia.png' width='100'> 
+### VISION-R (GSCOP, Grenoble)
+<img src='plateformes/visionr.jpeg' width='100'> 
 
-### CRVM (ISM, Marseille)
-<img src='logos/pia.png' width='100'> 
+### Kinovis (Inria Rhône-Alpes, Grenoble)
+<img src='plateformes/kinovis.jpeg' width='100'> 
 
-### CRVM (ISM, Marseille)
-<img src='logos/pia.png' width='100'> 
+### CERV (ENIB, Brest)
+<img src='plateformes/cerv.jpeg' width='100'>
+
+### ATOL (IMT Atlantique, Brest)
+<img src='plateformes/atol.jpeg' width='100'>
+
+### ERCOS (UTBM, Belfort)
+<img src='plateformes/ercos.jpeg' width='100'>
+
+### InVirtuo (iCUBE, Strasbourg)
+<img src='plateformes/invirtuo.jpeg' width='100'> 
+
+### EVE-ROOM (LISN, Orsay)
+<img src='plateformes/eve.jpeg' width='100'>
+
+### EVE-XR (LISN, Orsay)
+
+### WILD (LISN, Orsay)
+<img src='plateformes/wild.jpeg' width='100'>
+
+### WILDER (LISN, Orsay)
+<img src='plateformes/wilder.jpeg' width='100'>
+
+### MIRE (LATMOS, Guyancourt)
+<img src='plateformes/mire.jpeg' width='100'>
+
+### MSIM (SATIE, Saclay)
+
+### Mandelbrot (Maison de la Simulation, Saclay)
+<img src='plateformes/mandelbrot.jpeg' width='100'>
+
+### SINAPSE (CentraleSupélec, Gif-sur-yvette)
+<img src='plateformes/sinapse.jpeg' width='100'>
+
+### VIKI-CAVE (CEA SACLAY, Gif-sur-yvette)
+<img src='plateformes/viki.jpeg' width='100'>
+
+### VIKI-XR (CEA Saclay NanoInnov, Palaiseau)
+
+### PIXLS (LTCI, Palaiseau)
+<img src='plateformes/pixls.jpeg' width='100'>
+
+### IRIS (LTCI, Palaiseau)
+<img src='plateformes/iris.jpeg' width='100'>
+
+### Hyve-3D (I3, Palaiseau)
+
+### Studio Design (I3, Palaiseau)
