@@ -121,11 +121,32 @@ Agence Nationale de la Recherche
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_EMMTAn6U0qOsp6aAYbYYqCn3Z-RHXg&ehbc=2E312F" width="700" height="500"></iframe>
 
 
-### Immersia
+### Immersia (IRISA, Rennes)
 <img src='logos/pia.png' width='100'> 
 
-### Immermove
+### Immermove (M2S, Rennes) 
 <img src='logos/pia.png' width='100'> 
 
-### autres
+### CRVM (ISM, Marseille)
+<img src='logos/pia.png' width='100'> 
+
+### Translife (Heudiasyc, Compiègne)
+<img src='logos/pia.png' width='100'> 
+
+### BlueLemon, SAAM, eLiV (Arts et Métiers, Chalon)
+<img src='logos/pia.png' width='100'>
+
+### JARVIS (Arts et Métiers, Aix en provence)
+<img src='logos/pia.png' width='100'> 
+
+### CRVM (ISM, Marseille)
+<img src='logos/pia.png' width='100'> 
+
+### CRVM (ISM, Marseille)
+<img src='logos/pia.png' width='100'> 
+
+### CRVM (ISM, Marseille)
+<img src='logos/pia.png' width='100'> 
+
+### CRVM (ISM, Marseille)
 <img src='logos/pia.png' width='100'> 
