@@ -16,14 +16,15 @@ Lorem ipsum dolor si amet:
 
 ## Planning prévisionnel
 
-|| Lundi 3 Juillet | Mardi 4 Juillet |
-| ---| --- | --- |
-|9h30-10h| `git status` | List all *new or modified* files |
-|10h-10h30| `accueil` | List all *new or modified* files |
-|10h30-12h30| `Présentations générales` | Bilan annuel |
-|12h30-14h| `Repas` | List all *new or modified* files |
-|14h-18h| `git status` | List all *new or modified* files |
-|12h-12h30| `git status` | List all *new or modified* files |
+| Lundi 3 Juillet | Mardi 4 Juillet |
+| --- | --- |
+|10h-10h30: Accueil café | 9h-9h30: Accueil café |
+|10h30-12h30 Présentations journées et bilan annuel | 9h30-10h30: Visite G-SCOP/Ateliers |
+|12h30-14h00: REPAS | 10h30-11h: pause café |
+|14h-18h: Visites INRIA-LIG/Ateliers| 11h-12h30: Restitution comités |
+|18h-.. : événement social | 12h30-14h: REPAS |
+| | 14h-15h: visite GSCOP/Atelier |
+| | 15h-16h: Clôture/Café |
 
 
 ## Comment venir
