@@ -21,7 +21,7 @@ Les activités proposées durant ces journées seront les suivantes:
 
 - ce planning est susceptible d'évoluer dans les jours qui viennent, vous serez notifiés de sa version définitive.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT810goexIiolrXO6onsGpU8Se3RuHXZyA-oncCAfrP0SfBYtPDX_CKobxCEZ7vfOu7SZaWS2Kc1Z8e/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT810goexIiolrXO6onsGpU8Se3RuHXZyA-oncCAfrP0SfBYtPDX_CKobxCEZ7vfOu7SZaWS2Kc1Z8e/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="400" height="500"></iframe>
 
 ## Comment venir
 Les sessions plénières se dérouleront au laboratoire G-SCOP, à côté de la gare de Grenoble.
