@@ -23,7 +23,7 @@ Les activités proposées durant ces journées seront les suivantes:
 
 ### Lundi 3 Juillet
 
-| &nbsp; | &nbsp; |
+| | |
 | --- | --- |
 |09h30h-10h00 | Accueil Café |
 |10h00-12h00 | *Séminaire ouvert PERSYVAL / CONTINUUM* |
@@ -36,14 +36,17 @@ Les activités proposées durant ces journées seront les suivantes:
 |19h- | *Activité collective* |
 ### Mardi 4 Juillet
 
-| Lundi 3 Juillet | Mardi 4 Juillet |
-| --- | --- |
-|10h-10h30: Accueil café | 9h-9h30: Accueil café |
-|10h30-12h30 Présentations journées et bilan annuel | 9h30-10h30: Visite G-SCOP/Ateliers |
-|12h30-14h00: REPAS | 10h30-11h: pause café |
-|14h-18h: Visites INRIA-LIG/Ateliers| 11h-12h30: Restitution comités |
-|18h-.. : événement social | 12h30-14h: REPAS |
-| | 14h-15h: visite GSCOP/Atelier |
+| | | |
+| --- | --- | --- | 
+|08h00h-12h00 | <br> Visite Viallet Groupe 1 <br> Déplacement Campus LIG Groupe 1 <br> <br> Visite LIG Groupe 1 <br> retour Viallet Groupe 1 | Déplacement Campus LIG Groupe 2 <br> Visite LIG Groupe 2 <br><br> Retour Viallet Groupe 2 <br> <br> |
+|10h00-12h00 | *Séminaire ouvert PERSYVAL / CONTINUUM* |
+|12h00-13h30 | REPAS |
+|13h30-14h00 | Bus CONTINUUM direction INRIA |
+|14h00-16h00 | Visites KINOVIS / Ateliers thématiques |
+|16h00-16h30 | *Pause café* |
+|16h30-17h30 | Session Comité 1 |
+|17h30-18h00 | Bus CONTINUUM direction GSCOP |
+|19h- | *Activité collective* | |
 | | 15h-16h: Clôture/Café |
 
 
