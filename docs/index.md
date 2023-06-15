@@ -22,15 +22,16 @@ Les activités proposées durant ces journées seront les suivantes:
 - ce planning est susceptible d'évoluer dans les jours qui viennent, vous serez notifiés de sa version définitive.
 
 ### Lundi 3 Juillet
+
 | --- | --- |
-|09h30h-10h00| Accueil Café |
-|10h00-12h00| *Séminaire ouvert PERSYVAL / CONTINUUM* |
-|12h00-13h30| REPAS |
-|13h30-14h00| Bus CONTINUUM direction INRIA |
-|14h00-16h00| Visites KINOVIS / Ateliers thématiques |
-|16h00-16h30| *Pause café* |
-|16h30-17h30| Session Comité 1 |
-|17h30-18h00| Bus CONTINUUM direction GSCOP |
+|09h30h-10h00 | Accueil Café |
+|10h00-12h00 | *Séminaire ouvert PERSYVAL / CONTINUUM* |
+|12h00-13h30 | REPAS |
+|13h30-14h00 | Bus CONTINUUM direction INRIA |
+|14h00-16h00 | Visites KINOVIS / Ateliers thématiques |
+|16h00-16h30 | *Pause café* |
+|16h30-17h30 | Session Comité 1 |
+|17h30-18h00 | Bus CONTINUUM direction GSCOP |
 |19h- | *Activité collective* |
 ### Mardi 4 Juillet
 
