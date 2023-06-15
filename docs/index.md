@@ -38,12 +38,7 @@ Les activités proposées durant ces journées seront les suivantes:
 
 | | | |
 | --- | --- | --- | 
-|08h00h-08h30 <br> 08h30h-09h00 <br> 09h00h-09h30 <br> 09h30h-10h00 <br> 10h00h-10h30 <br> 10h30h-11h00 <br> 11h00h-11h30 <br> 11h30h-12h00 <br> |
-``` 
-Visite Viallet Groupe 1 
-
-```
-Déplacement Campus LIG Groupe 1 <br> <br> Visite LIG Groupe 1 <br> <br> retour Viallet Groupe 1 | Déplacement Campus LIG Groupe 2 <br> <br> Visite LIG Groupe 2 <br><br> Retour Viallet Groupe 2 <br> <br> Visite Viallet Groupe 2 <br> <br> |
+|08h00h-08h30 <br> 08h30h-09h00 <br> 09h00h-09h30 <br> 09h30h-10h00 <br> 10h00h-10h30 <br> 10h30h-11h00 <br> 11h00h-11h30 <br> 11h30h-12h00 <br> | <br> Visite Viallet Groupe 1 <br> <br> Déplacement Campus LIG Groupe 1 <br> <br> Visite LIG Groupe 1 <br> <br> Retour Viallet Groupe 1 | Déplacement Campus LIG Groupe 2 <br> <br> Visite LIG Groupe 2 <br><br> Retour Viallet Groupe 2 <br> <br> Visite Viallet Groupe 2 <br> <br> |
 |12h00-13h30 | REPAS |
 |13h30-14h00 | Bus CONTINUUM direction INRIA |
 |14h00-16h00 | Visites KINOVIS / Ateliers thématiques |
