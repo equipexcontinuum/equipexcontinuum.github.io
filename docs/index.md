@@ -22,7 +22,7 @@ Les activités proposées durant ces journées seront les suivantes:
 - ce planning est susceptible d'évoluer dans les jours qui viennent, vous serez notifiés de sa version définitive.
 
 ### Lundi 3 Juillet
-
+| --- | --- |
 |09h30h-10h00| Accueil Café |
 |10h00-12h00| *Séminaire ouvert PERSYVAL / CONTINUUM* |
 |12h00-13h30| REPAS |
