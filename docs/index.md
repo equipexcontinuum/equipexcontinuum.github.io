@@ -23,8 +23,6 @@ Les activités proposées durant ces journées seront les suivantes:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT810goexIiolrXO6onsGpU8Se3RuHXZyA-oncCAfrP0SfBYtPDX_CKobxCEZ7vfOu7SZaWS2Kc1Z8e/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="700"></iframe>
 
-https://osmose.numerique.gouv.fr/front/publicLink/publicDownload.jsp?id=aa48bc19-a3c3-4ebf-bcb7-4d1c6ba7d5e09cce5dbe-066a-4a22-bee7-a88617dccb83
-
 ## Comment venir
 Les sessions plénières se dérouleront au laboratoire G-SCOP, à côté de la gare de Grenoble.
 
