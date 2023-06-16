@@ -26,8 +26,16 @@ Les activités proposées durant ces journées seront les suivantes:
 ## Comment venir
 Les sessions plénières se dérouleront au laboratoire G-SCOP, à côté de la gare de Grenoble.
 
-Les visites des plateformes auront lieu à INRIA Grenoble (accessible en bus) et au LIG (accessible en tramway).
+### Laboratoire G-SCOP, plateforme VISION-R
+G-SCOP se trouve au 46, Avenue Félix VIALLET, à côté de la gare.
+Il est accessible via le tramway B **Grenoble Presqu'île arrêt Victor Hugo**
 
-Des moyens de transports collectifs seront mis à disposition afin de faciliter les déplacements vers les plateformes.
+### Plateforme INRIA KINOVIS
+Le centre INRIA de l'UGA se trouve au 655, Avenue de l'Europe à 38330 Montbonnot-Saint-Martin.
+Un bus sera mis à disposition lundi pour nous y transporter.
+
+### Plateforme Playground LIG
+La plateforme Playground est accessible depuis le centre-ville via le tramway B **Gières Plaine des Sports arrêt Gabriel Fauré**.
+Pour les visites du mardi matin, il faut compter 25 minutes de trajet.
 
 <img src='grenoble.jpg' width='400'>
