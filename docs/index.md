@@ -46,8 +46,7 @@ Pour les visites du mardi matin, il faut compter 25 minutes de trajet.
 * Descendre à l'arrêt "Gabriel Fauré"
 * Suivre la ligne de tramway puis tourner à droite sur la première rue ("rue des Mathématiques" qui devient "avenue centrale"), marcher vers le bâtiment IMAG : gros bâtiment blanc et noir, IMAG est visible en haut.
 
-![Bâtiment IMAG](imag.jpg)
-<img src='imag.jpg' width='600'>
+<img src='imag.jpg' width='800'>
 
 
 ## Aller à G-SCOP depuis le LIG
