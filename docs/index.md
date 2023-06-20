@@ -39,7 +39,7 @@ Pour les visites du mardi matin, il faut compter 25 minutes de trajet.
 
 ### Aller au LIG depuis G-SCOP
 
-[plan google](https://www.google.com/maps/dir/45.190655,5.7175935/45.1909338,5.7669779/@45.1926294,5.7341401,15.52z/am=t/data=!4m2!4m1!3e3?authuser=0&entry=ttu)
+[plan google](https://www.google.com/maps/dir/45.190655,5.7175935/45.1909338,5.7669779/@45.1931553,5.7203254,14z/data=!3m1!4b1!4m6!4m5!2m3!6e0!7e2!8j1688457600!3e3?authuser=0&entry=ttu)
 
 * Sortir sur l'avenue Félix Viallet, partir à droite vers la gare
 * À l'arrêt "Gare", prendre le tramway ***ligne B*** direction "Gières, plaine des sports" (attention, la ligne A passe aussi par cet arrêt).
@@ -47,9 +47,9 @@ Pour les visites du mardi matin, il faut compter 25 minutes de trajet.
 * Suivre la ligne de tramway puis tourner à droite sur la première rue ("rue des Mathématiques" qui devient "avenue centrale"), marcher vers le bâtiment IMAG : gros bâtiment blanc et noir, IMAG est visible en haut.
 
 ![Bâtiment IMAG](imag.jpg)
+<img src='imag.jpg' width='600'>
+
 
 ## Aller à G-SCOP depuis le LIG
 
 Faire le trajet inverse :-) Ligne B direction "Grenoble, Oxford"
-
-<img src='grenoble.jpg' width='400'>
