@@ -6,12 +6,10 @@
 - Accueil des personnels autour d'une boisson chaude
 
 ### 10h-12h
-- Séance plénière CONTINUUM
-- Présentation des journées, bilan annuel
-- (sous réserve de financement PERSYVAL) Présentation PERSYVAL
+- Séminaire ouvert de présentations de CONTINUUM et de PERSYVAL
 
 ### 12h-13h30
-- Buffet repas
+- Buffet repas (PERSYVAL & CONTINUUM)
 
 ### 13h30-14h
 - Départ en bus pour la plateforme KINOVIS
