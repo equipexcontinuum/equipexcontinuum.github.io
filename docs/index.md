@@ -17,6 +17,7 @@ Les activités proposées durant ces journées seront les suivantes:
 - Présentations des activités autour de CONTINUUM de l'année passée
 
 Ces journées ont reçu le soutien d'Inria, et de PERSYVAL.
+
 <img src='logos/inria.png' width='300'>
 <img src='logos/persyval.png' width='300'>
 
