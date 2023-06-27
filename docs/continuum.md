@@ -43,8 +43,8 @@ Institut national de recherche en sciences et technologies du numérique
 ### 10 universités
 --------------
 
-<img src='logos/ur1.png' width='200'>
-Université de Rennes 1
+<img src='logos/UNIRENNES_LOGOnoir.jpg' width='200'>
+Université de Rennes
 
 <img src='logos/ur2.png' width='100'>
 Université de Rennes 2
