@@ -31,6 +31,7 @@ Le [programme détaillé](programme.md) est également disponible dans une sous-
 
 ## Comment venir
 Les sessions plénières se dérouleront au laboratoire G-SCOP, à côté de la gare de Grenoble.
+Les titres de transport peuvent s'acheter ici: https://www.tag.fr/67-un-tarif-pour-chacun.htm
 
 ### Laboratoire G-SCOP
 G-SCOP se trouve au 46, Avenue Félix VIALLET, à côté de la gare.
