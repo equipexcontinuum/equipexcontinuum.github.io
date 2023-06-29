@@ -6,7 +6,7 @@
 - Accueil des personnels autour d'une boisson chaude
 
 ### 10h-12h
-- Séminaire ouvert de présentations de CONTINUUM et de PERSYVAL
+- Séminaire ouvert de présentations de CONTINUUM et de MIAI
 
 ### 12h-13h30
 - Buffet repas (PERSYVAL & CONTINUUM)
