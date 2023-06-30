@@ -12,9 +12,9 @@ Ce site regroupe les informations des journées annuelles de l'ÉQUIPEX + CONTIN
 Les journées de l'Équipex + CONTINUUM sont l'occasion pour les personnels y contribuant de se voir en 'présentiel' pour échanger au sein des comités et autour de projets transverses.
 Les activités proposées durant ces journées seront les suivantes:
 
+- Présentations d'activités grenobloises (équipe action MANIP soutenue par PERSYVAL et institut MIAI) et de CONTINUUM durant un séminaire croisé
 - Visites des plateformes Grenobloises
 - Retours des différents comités
-- Présentations des activités autour de CONTINUUM de l'année passée
 
 Ces journées ont reçu le soutien d'Inria, et de PERSYVAL.
 
