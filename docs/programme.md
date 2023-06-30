@@ -1,4 +1,4 @@
-# Programme détaillé
+  # Programme détaillé
 
 ## Lundi 3 Juillet
 
@@ -6,7 +6,7 @@
 - Accueil des personnels autour d'une boisson chaude
 
 ### 10h-12h
-- Séminaire ouvert de présentations de CONTINUUM et de MIAI
+- Séminaire ouvert de présentations de CONTINUUM et d'activités grenobloises soutenues par PERSYVAL
 
 ### 12h-13h30
 - Buffet repas (PERSYVAL & CONTINUUM)
