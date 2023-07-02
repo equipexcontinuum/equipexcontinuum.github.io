@@ -46,7 +46,8 @@ La plateforme Playground est accessible depuis le centre-ville via le tramway B.
 Pour les visites du mardi matin, il faut compter 25 minutes de trajet.
 
 Le plan ci-dessous indique les bureaux des différentes démonstrations:
-<img src='plan_LIG.png' width='500'>
+
+<img src='plan_LIG.png' width='400'>
 
 ### Aller au LIG depuis G-SCOP
 
