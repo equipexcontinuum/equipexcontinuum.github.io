@@ -81,10 +81,10 @@ Université de Versailles - Saint-Quentin
 <img src='logos/ens-rennes.svg' width='100'>
 Ecole Normale Supérieure de Rennes
 
-<img src='logos/insa-rennes.jpg' width='100'>
+<img src='logos/insa-rennes.png' width='100'>
 Institut National des Sciences Appliquées de Rennes
 
-<img src='logos/enib.jpg' width='200'>
+<img src='logos/enib.png' width='200'>
 Ecole Nationale d'Ingénieurs de Brest
 
 <img src='logos/imt-atlantique.png' width='200'> 
