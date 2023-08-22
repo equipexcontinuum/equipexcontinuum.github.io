@@ -1,4 +1,9 @@
-  # Programme détaillé
+---
+layout: default
+title: Programme Journées CONTINUUM 2023
+nav_order: 2
+---
+# Programme détaillé
 
 ## Lundi 3 Juillet
 
