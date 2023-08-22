@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Equipex + CONTINUUM
+nav_exclude: false
 ---
 
 # EQUIPEX + CONTINUUM
