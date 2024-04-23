@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Journées Scientifique CONTINUUM et GT-RV 2024
+title: Journée Scientifique CONTINUUM et GT-RV 2024
 nav_exclude: false
 ---
 
-# Journées Scientifique CONTINUUM et GT-RV 2024
+# Journée Scientifique CONTINUUM et GT-RV 2024
 
 Les pages suivantes regroupent les informations relatives à la journée scientifique CONTINUUM et du GT-RV qui auront lieu du **24 et 25 Juin 2024** au Centre Inria de l'Université de Rennes/IRISA. 
 
