@@ -26,6 +26,8 @@ Les activités proposées durant ces journées seront les suivantes :
 
 ## Programme détaillé
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShYalNNynNRs5ge2l46L98NylI1-vazhd48e_fF8KfoU3VEH5mqidpQAINAehXMTv5uMOMN8XlYPQn/pubhtml?gid=1100044936&single=true;headers=false" width="700" height="700"></iframe>
+
 ### Lundi 24 Juin
 
 - 12h00-13h30 - Accueil Journée Scientifique CONTINUUM/GT RV
