@@ -38,15 +38,14 @@ Les activités proposées durant ces journées seront les suivantes :
 - 17h00-18h00 - Séminaire sur les Prospectives Scientifiques de nos thématiques de recherche (Réalité Virtuelle, Réalité Augmentée, Réalité Mixte)
 
 #### Soirée
-- Repas dans un restaurant (à vos frais malheureusement)
+- 19h30: Repas à la [Taverne de la marine](https://www.latavernedelamarine.com/)
 
 ### Mardi 25 Juin
 
-- 09h00-09h30 - Présentations Scientifiques / Accueil Journées CONTINUUM
-- 09h30-10h00 - Pause café
-- 10h00-10h30 - Introduction Journées CONTINUUM 
-- 10h30-11h30 - Présentation des équipes de recherche du site Rennais (MimeTIC, Hybrid, Virtus, Rainbow).
-- 11h30-12-00 - Présentation d'Anne-Laure GUINET, Accessit au prix de thèse du GdR IG-RV 2023 pour sa thèse doctorat intitulée "Retours sensoriels multimodaux en réalité augmentée pour la rééducation de la marche des enfants atteints de paralysie cérébrale"
+- 08h45-10h00 - Présentations Scientifiques
+- 10h00-10h30 - Pause café et Accueil Journées
+- 10h30-11h00 - Introduction Journées CONTINUUM 
+- 11h00-12h00 - Présentation des équipes de recherche du site Rennais (MimeTIC, Hybrid, Virtus, Rainbow)
 - 12h00-13h30 - Buffet repas
 - 13h30-15h30 - Visite plateforme Immersia et démos équipes
 - 15h30-16h00 - Cloture Journée Scientifiques (Pause Café)
