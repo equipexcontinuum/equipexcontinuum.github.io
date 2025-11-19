@@ -6,6 +6,14 @@ nav_exclude: false
 
 # EQUIPEX + CONTINUUM
 
+> ## Changement de site WEB
+>
+> Le site est maintenant hébergé au CNRS, via l'adresse suivante: [https://www.continuum.cnrs.fr](https://continuum.cnrs.fr/)
+> La maintenance de ce site ne sera pas poursuivie.
+> Alexandre KABIL, Chef de projet
+>  
+
+
 ## Présentation
 CONTINUUM est un projet EquipEx+ porté par le CNRS dans le cadre du 4ème Programme d'investissements d'avenir (PIA4). Doté de 13,6M€, le projet créera une infrastructure de recherche collaborative de 30 plateformes situées dans toute la France, afin de faire progresser la recherche interdisciplinaire entre l'informatique et les sciences humaines et sociales. Grâce à CONTINUUM, 37 équipes de recherche développeront des recherches de pointe axées sur la visualisation, l'immersion, l'interaction et la collaboration, ainsi que sur la perception, la cognition et le comportement humains en réalité virtuelle/augmentée.
 
